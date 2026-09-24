@@ -1,0 +1,6 @@
+[project]
+name = "medicine-congress"
+version = "0.1.0"
+description = "传统医药大会共同文件的服务端领域基础"
+requires-python = ">=3.11"
+dependencies = []
